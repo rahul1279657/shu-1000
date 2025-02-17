@@ -10,3 +10,4 @@ flask
 flask-cors
 waitress
 html5lib
+Python 3.13.2
